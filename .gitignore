@@ -1,0 +1,10 @@
+# Ignore trained LightGBM model files (they can be large)
+lgbm_model_*.pkl
+
+# Ignore logs and Python cache folders
+*.log
+__pycache__/
+
+# If you want to exclude dataset.json but keep dataset.csv (since it's public)
+dataset.json
+user_profile.csv
