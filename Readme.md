@@ -1,7 +1,3 @@
-Here’s a detailed **README.md** template for your project based on the files and structure you shared. You can save it as `Readme.md` or `README.md` in your project root.
-
----
-
 # Fitni\_Model: Nutrition and Fitness Prediction
 
 ## Overview
